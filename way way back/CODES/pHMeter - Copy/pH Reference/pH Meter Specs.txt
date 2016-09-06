@@ -1,0 +1,41 @@
+pH Meter
+https://www.sparkfun.com/products/10972
+
+pH Sensor Kit
+SEN-10972
+
+Description: Need to measure precise pH? This kit includes everything you need including buffer solutions for calibration, pH probe, and even a board to connect directly to your favorite microcontroller. This is laboratory-grade equipment and not just a toy or educational kit.
+
+All you need to do is follow the included instructions for calibrating the probe and connect it to the included pH Circuit. The pH Circuit outputs data from the probe over serial, so it couldn't be much easier to use.
+
+Includes:
+
+125ml Red Buffer Solution - pH 4.0
+125ml Yellow Buffer Solution - pH 7.0
+125ml Blue Buffer Solution - pH 10.0
+125ml Storage Solution
+pH Probe
+pH Circuit
+BNC Connector
+Features:
+
+pH probe
+pH Range:  0-14 (Na+ error at >12.3 pH)
+Speed of Response:  95% in 1 second
+Isopotential point:  pH 7.00 (0 mV)
+Offset:  +/- 0.20 pH
+3 buffer solutions and storage solution
+38400 baud rate default
+Documents:
+
+Datasheet (pH Circuit)
+MSDS (pH 4.0, Red)
+MSDS (pH 7.0, Yellow)
+MSDS (pH 10.0, Blue)
+MSDS (pH Storage Solution)
+Wiring Diagram
+Arduino Example Code
+Arduino Mega Example Code
+Raspberry Pi Example Code
+PIC Example Code
+Product Page
